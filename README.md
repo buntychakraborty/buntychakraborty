@@ -14,7 +14,6 @@
 - ⚡ Fun fact: No as such
 
 ### Connect with me:
-
 <a href="https://www.linkedin.com/in/bunty-chakraborty-b5a395119/">
   <img align="left" alt="Bunty Chakraborty | Linkedin" width="20px" src="https://raw.githubusercontent.com/harsh07bharvada/harsh07bharvada/master/assets/linkedin.svg" />
 </a>
