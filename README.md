@@ -13,10 +13,10 @@
 
 ### Connect with me:
  <a href="https://www.linkedin.com/in/bunty-chakraborty-b5a395119/">
-  <img align="left" alt="Bunty Chakraborty | Linkedin" width="20px" src="https://raw.githubusercontent.com/harsh07bharvada/harsh07bharvada/master/assets/linkedin.svg" />
+  <img align="left" alt="Bunty Chakraborty | Linkedin" width="20px" src="https://raw.githubusercontent.com/buntychakraborty/buntychakraborty/master/assets/linkedin.svg" />
  </a>
  <a href="https://www.hackerrank.com/bunty09_bunty09">
-  <img align="left" alt="Bunty Chakraborty | Hackerrank" width="21px" src="https://raw.githubusercontent.com/harsh07bharvada/harsh07bharvada/master/assets/hackerrank.svg" />
+  <img align="left" alt="Bunty Chakraborty | Hackerrank" width="21px" src="https://raw.githubusercontent.com/buntychakraborty/buntychakraborty/master/assets/hackerrank.svg" />
  </a>
  
 <br />
