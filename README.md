@@ -7,7 +7,7 @@
 - 👯 I’m looking contribute more to Open Source projects
 - 🤔 I’m looking for help with Docker & Kafka
 - 💬 Ask me about JAVA
-- 📫 How to reach me:buntychakraborty09@gmail.com
+- 📫 How to reach me: buntychakraborty08@gmail.com
 - 😄 Pronouns: Passionate | Patient | Ambitious | Nerdy | Geek
 - ⚡ Fun fact: No as such
 
