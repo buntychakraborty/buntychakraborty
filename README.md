@@ -41,6 +41,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buntychakraborty&hide=php&layout=compact&hide_border=true)]()
 
 <br />
-
+<!-- 
 ---
-<img align="left" alt="buntychakraborty's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=buntychakraborty&show_icons=true&hide_border=true&include_all_commits=true" />
+<img align="left" alt="buntychakraborty's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=buntychakraborty&show_icons=true&hide_border=true&include_all_commits=true" /> -->
