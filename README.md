@@ -1,4 +1,4 @@
-### Hi there, I'm Bunty 😉
+### Hi there 😉
 
 
 ### I'm a Developer!
