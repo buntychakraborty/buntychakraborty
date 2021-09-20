@@ -19,7 +19,7 @@
     <img align="left" alt="Bunty Chakraborty | Hackerrank" width="21px" src="https://raw.githubusercontent.com/harsh07bharvada/harsh07bharvada/master/assets/hackerrank.svg" />
  </a>
  
-![](https://komarev.com/ghpvc/?username=harsh07bharvada&style=flat-square)
+![](https://komarev.com/ghpvc/?username=buntychakraborty&style=flat-square)
 
 <br/>
 
