@@ -2,8 +2,8 @@
 
 
 ### Hola! This is Bunty.
-- 🔭 I’m currently working on Thymeleaf,Java 8,Spring Boot & Oracle/PostGres
-- 🌱 I’m currently learning Devops, React and Spring Webflux
+- 🔭 I’m currently working on React,Thymeleaf,Java 8,Spring Boot & MySQL,Oracle/PostGres
+- 🌱 I’m currently learning Devops and Spring Webflux
 - 👯 I’m looking contribute more to Open Source projects
 - 🤔 I’m looking for help with DevOps
 - 💬 Ask me about JAVA
