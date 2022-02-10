@@ -2,7 +2,7 @@
 
 
 ### Hola! This is Bunty.
-- 🔭 I’m currently working on React,Thymeleaf,Java 8,Spring Boot & MySQL,Oracle/PostGres
+- 🔭 I’m currently working on React,Thymeleaf,Java 8,Spring Boot & MySQL,Oracle/PostGres, Apache Kafka
 - 🌱 I’m currently learning Devops and Spring Webflux
 - 👯 I’m looking contribute more to Open Source projects
 - 🤔 I’m looking for help with DevOps
