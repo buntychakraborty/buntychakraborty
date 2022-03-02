@@ -47,3 +47,5 @@
 <!-- 
 ---
 <img align="left" alt="buntychakraborty's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=buntychakraborty&show_icons=true&hide_border=true&include_all_commits=true" /> -->
+
+![GitHub metrics](https://metrics.lecoq.io/buntychakraborty)  
