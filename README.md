@@ -2,9 +2,9 @@
 
 
 ### Hola! This is Bunty.
-- 🔭 I’m currently working on React,Thymeleaf,Java 8,Spring Boot, MySQL,Oracle/PostGres, Apache Kafka, Webflux,gRPC, Spring Webflux
+- 🔭 I’m currently working on React, Thymeleaf, Java 8, Spring Boot, MySQL, Oracle/Postgres, Apache Kafka, Webflux,gRPC, Spring Webflux, Micronaut, OJET
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking contribute more to Open Source projects
+- 👯 I’m looking to contribute more to Open Source projects
 - 🤔 I’m looking for help with DevOps
 - 💬 Ask me about JAVA
 - 📫 How to reach me: buntychakraborty08@gmail.com
