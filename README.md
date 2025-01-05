@@ -1,51 +1,72 @@
-### Hi there 😉
+<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50">Bunty Chakraborty</span>!</h1>  
+<h3 align="center">🚀 Passionate Developer | Lifelong Learner | Open Source Enthusiast</h3>  
 
-
-### Hola! This is Bunty.
-- 🔭 I’m currently working on React, Thymeleaf, Java 8, Spring Boot, MySQL, Oracle/Postgres, Apache Kafka, Webflux,gRPC, Spring Webflux, Micronaut, OJET,React Native
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to contribute more to Open Source projects
-- 🤔 I’m looking for help with DevOps
-- 💬 Ask me about JAVA
-- 📫 How to reach me: buntychakraborty08@gmail.com
-- 😄 Pronouns: Passionate | Patient | Ambitious | Nerdy | Geek
-- ⚡ Fun fact: No as such
-
-### Connect with me:
- <a href="https://www.linkedin.com/in/bunty-chakraborty-b5a395119/">
-    <img align="left" alt="Bunty Chakraborty | Linkedin" width="20px" src="https://raw.githubusercontent.com/harsh07bharvada/harsh07bharvada/master/assets/linkedin.svg" />
- </a>
- <a href="https://www.hackerrank.com/bunty09_bunty09">
-    <img align="left" alt="Bunty Chakraborty | Hackerrank" width="21px" src="https://raw.githubusercontent.com/harsh07bharvada/harsh07bharvada/master/assets/hackerrank.svg" />
- </a>
- 
-![](https://komarev.com/ghpvc/?username=buntychakraborty&style=flat-square)
-
-<br/>
-
-
-### Languages and Tools:
-
-<img align="left"  title="Java" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" title="Spring" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spring.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buntychakraborty&hide=php&layout=compact&hide_border=true)]()
-
-<br />
-<!-- 
 ---
-<img align="left" alt="buntychakraborty's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=buntychakraborty&show_icons=true&hide_border=true&include_all_commits=true" /> -->
 
-![GitHub metrics](https://metrics.lecoq.io/buntychakraborty)  
+### 🙋‍♂️ **About Me**  
+- 🔭 **Currently Working On**:  
+  React, Thymeleaf, Java 8, Spring Boot, MySQL, Postgres, Apache Kafka, Webflux, gRPC, Micronaut, React Native, and OJET.  
+- 🌱 **Learning**: Data Science and Machine Learning.  
+- 👯 **Open to Collaborations**: Especially in Open Source projects.  
+- 💬 **Ask Me About**: Java, Backend Development, and Scalable Architectures.  
+- 🤔 **Looking For Help**: Exploring DevOps tools and practices.  
+- 📧 **Reach Me At**: [buntychakraborty08@gmail.com](mailto:buntychakraborty08@gmail.com)  
+- ⚡ **Fun Fact**: Solving tough problems feels like being a detective on a mission!  
+
+---
+
+### 🌐 **Connect With Me**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/bunty-chakraborty-b5a395119/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.hackerrank.com/bunty09_bunty09" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+</p>  
+
+---
+
+### 🛠 **Languages & Tools**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Kafka-231210?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>  
+
+---
+
+### 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buntychakraborty&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Bunty's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buntychakraborty&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>  
+
+---
+
+### 🔥 **GitHub Streak Stats**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buntychakraborty&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>  
+
+---
+
+### 🏆 **GitHub Trophies**  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=buntychakraborty&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
+</p>  
+
+---
+
+### 👀 **Profile Views**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=buntychakraborty&style=flat-square" alt="Profile Views" />
+</p>  
