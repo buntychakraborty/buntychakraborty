@@ -8,7 +8,7 @@
   React, Thymeleaf, Java 8, Spring Boot, MySQL, Postgres, Apache Kafka, Webflux, gRPC, Micronaut, React Native, and OJET.  
 - 🌱 **Learning**: Data Science and Machine Learning.  
 - 👯 **Open to Collaborations**: Especially in Open Source projects.  
-- 💬 **Ask Me About**: Java, Backend Development, and Scalable Architectures.  
+- 💬 **Ask Me About**: Full Stack Development, and Scalable Architectures.  
 - 🤔 **Looking For Help**: Exploring DevOps tools and practices.  
 - 📧 **Reach Me At**: [buntychakraborty08@gmail.com](mailto:buntychakraborty08@gmail.com)  
 - ⚡ **Fun Fact**: Solving tough problems feels like being a detective on a mission!  
