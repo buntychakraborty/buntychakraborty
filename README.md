@@ -130,27 +130,30 @@
 
 ## 📈 Git & Work Analytics
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=buntychakraborty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buntychakraborty&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=buntychakraborty&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=buntychakraborty&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=buntychakraborty&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ### 🏆 Achievement Showcase
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buntychakraborty&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" width="100%" />
+  <img
+    src="https://github-profile-trophy-tawny.vercel.app/?username=buntychakraborty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </p>
 
 ### 🎨 Contribution Graph
