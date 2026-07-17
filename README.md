@@ -25,46 +25,17 @@
 </div>
 
 ---
+<h2>⚡ Mainframe Terminal</h2>
 
-## ⚡ Mainframe Terminal
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: 1px solid #39ff14; border-radius: 6px; background-color: #0d1117;">
-  <tr>
-    <td style="background-color: #161b22; padding: 10px; border-top-left-radius: 6px; border-top-right-radius: 6px; border-bottom: 1px solid #39ff14; display: flex; align-items: center; justify-content: space-between;">
-      <div>
-        <span style="color: #ff5f56; font-size: 14px; margin-right: 4px;">●</span>
-        <span style="color: #ffbd2e; font-size: 14px; margin-right: 4px;">●</span>
-        <span style="color: #27c93f; font-size: 14px; margin-right: 4px;">●</span>
-      </div>
-      <span style="color: #39ff14; font-family: monospace; font-size: 13px; font-weight: bold;">bunty@cyberdeck:~</span>
-      <span style="color: #8b949e; font-family: monospace; font-size: 12px;">UTF-8</span>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 15px; font-family: 'Fira Code', 'Courier New', monospace; font-size: 14px; line-height: 1.6; color: #39ff14; background-color: #0a0e10;">
-      <span style="color: #8b949e;">$</span> cat developer_manifesto.json<br/>
-      <pre style="margin: 0; color: #39ff14; background: none; border: none; padding: 0;">{
-  "identity": "Bunty Chakraborty",
-  "alias": "Full Stack Alchemist",
-  "specialization": "Agentic AI & Scalable Microservices",
-  "core_languages": ["Java 8+", "Python", "JavaScript"],
-  "frameworks": ["Spring Boot", "Micronaut", "React", "LangChain"],
-  "infrastructure": ["Docker", "Kubernetes", "AWS", "OCI", "Kafka"],
-  "philosophy": "Solving complex engineering mysteries"
-}</pre>
-      <br/>
-      <span style="color: #8b949e;">$</span> ./run_fun_facts.sh<br/>
-      <span style="color: #a5d6ff;">[1] Every bug is a puzzle; every hotfix is an art.</span><br/>
-      <span style="color: #a5d6ff;">[2] Dive mode activated for Machine Learning & Agentic workflows.</span><br/>
-      <span style="color: #a5d6ff;">[3] Converting caffeine and synthwave beats to clean microservices.</span><br/>
-      <span style="color: #a5d6ff;">[4] Driven by deep curiosity, built for high performance.</span><br/>
-      <br/>
-      <span style="color: #8b949e;">$</span> <span style="color: #39ff14; font-weight: bold;">█</span>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1200&pause=500&color=39FF14&background=0D1117&center=false&vCenter=true&multiline=true&repeat=true&width=900&height=420&lines=bunty%40cyberdeck%3A~%24+cat+developer_manifesto.json;%7B;%22identity%22%3A+%22Bunty+Chakraborty%22%2C;%22alias%22%3A+%22Full+Stack+Alchemist%22%2C;%22specialization%22%3A+%22Agentic+AI+%26+Scalable+Microservices%22%2C;%22core_languages%22%3A+%5B%22Java+8%2B%22%2C+%22Python%22%2C+%22JavaScript%22%5D%2C;%22frameworks%22%3A+%5B%22Spring+Boot%22%2C+%22Micronaut%22%2C+%22React%22%2C+%22LangChain%22%5D%2C;%22infrastructure%22%3A+%5B%22Docker%22%2C+%22Kubernetes%22%2C+%22AWS%22%2C+%22OCI%22%2C+%22Kafka%22%5D;%7D;;bunty%40cyberdeck%3A~%24+.%2Frun_fun_facts.sh;%5B1%5D+Every+bug+is+a+puzzle%3B+every+hotfix+is+an+art.;%5B2%5D+Dive+mode+activated+for+Agentic+AI+workflows.;%5B3%5D+Converting+caffeine+into+clean+microservices.;%5B4%5D+Driven+by+deep+curiosity%2C+built+for+high+performance.;bunty%40cyberdeck%3A~%24+%E2%96%88"
+    alt="Animated Mainframe Terminal"
+  />
+</p>
 
 ---
+
 
 ## 🛠️ System Modules (Tech Stack)
 
