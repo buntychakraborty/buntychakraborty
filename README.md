@@ -110,28 +110,13 @@ flowchart LR
 
 ## 💻 `whoami`
 
-```bash
-$ whoami
-
-> Software Engineer
-> Full Stack Alchemist
-> Agentic AI Explorer
-> Microservices Architect
-> Professional Bug Hunter
-
-$ cat mission.txt
-
-Building intelligent systems.
-Breaking monoliths into microservices.
-Teaching AI agents to do the boring stuff.
-Turning caffeine into production deployments.
-
-$ echo $CURRENT_MISSION
-
-"Build. Break. Learn. Scale. Repeat."
-
-$ █
-```
+<p align="center">
+  <img
+    src="./whoami-animation.svg"
+    width="100%"
+    alt="Animated whoami terminal"
+  />
+</p>
 
 ---
 
