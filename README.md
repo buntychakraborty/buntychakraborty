@@ -137,21 +137,12 @@ flowchart LR
 
 ## 🔐 Access Log
 
-```log
-[INFO]  Visitor connection established
-[INFO]  Secure handshake completed
-[ OK ]  Developer profile decrypted
-[ OK ]  AI Core initialized
-[ OK ]  Microservices cluster connected
-[WARN]  Excessive curiosity detected
-[INFO]  Coffee dependency: STABLE
-[ OK ]  System ready
-
->>> Welcome to Bunty's Cyberdeck.
-```
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=buntychakraborty&label=CYBERDECK+CONNECTIONS&color=39ff14&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="./access-log-animation.svg"
+    width="100%"
+    alt="Animated Cyberdeck Access Log"
+  />
 </p>
 
 ---
