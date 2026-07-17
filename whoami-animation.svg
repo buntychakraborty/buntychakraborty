@@ -1,0 +1,109 @@
+<svg width="1000" height="620" viewBox="0 0 1000 620"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1000" height="620" rx="12" fill="#151b23"/>
+
+  <style>
+    text {
+      font-family: "Courier New", monospace;
+      font-size: 18px;
+      fill: #e6edf3;
+    }
+
+    .green { fill: #39ff14; }
+    .blue { fill: #79c0ff; }
+    .red { fill: #ff7b72; }
+    .muted { fill: #8b949e; }
+
+    .line {
+      opacity: 0;
+      animation: show 0.15s forwards;
+    }
+
+    @keyframes show {
+      to { opacity: 1; }
+    }
+
+    .cursor {
+      animation: blink 0.8s infinite;
+    }
+
+    @keyframes blink {
+      0%, 45% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <!-- whoami -->
+
+  <text x="35" y="45" class="line" style="animation-delay:.3s">
+    $ whoami
+  </text>
+
+  <text x="35" y="90" class="red line" style="animation-delay:1s">
+    &gt; Software Engineer
+  </text>
+
+  <text x="35" y="120" class="red line" style="animation-delay:1.4s">
+    &gt; Full Stack Alchemist
+  </text>
+
+  <text x="35" y="150" class="red line" style="animation-delay:1.8s">
+    &gt; Agentic AI Explorer
+  </text>
+
+  <text x="35" y="180" class="red line" style="animation-delay:2.2s">
+    &gt; Microservices Architect
+  </text>
+
+  <text x="35" y="210" class="red line" style="animation-delay:2.6s">
+    &gt; Professional Bug Hunter
+  </text>
+
+  <!-- Mission -->
+
+  <text x="35" y="265" class="line" style="animation-delay:3.4s">
+    $ cat mission.txt
+  </text>
+
+  <text x="35" y="315" class="line" style="animation-delay:4.1s">
+    Building intelligent systems.
+  </text>
+
+  <text x="35" y="345" class="line" style="animation-delay:4.6s">
+    Breaking monoliths into microservices.
+  </text>
+
+  <text x="35" y="375" class="line" style="animation-delay:5.1s">
+    Teaching AI agents to do the boring stuff.
+  </text>
+
+  <text x="35" y="405" class="line" style="animation-delay:5.6s">
+    Turning caffeine into production deployments.
+  </text>
+
+  <!-- Current Mission -->
+
+  <text x="35" y="465" class="line" style="animation-delay:6.5s">
+    $ <tspan class="blue">echo</tspan> $CURRENT_MISSION
+  </text>
+
+  <text x="35" y="515" class="blue line"
+        style="animation-delay:7.3s">
+    "Build. Break. Learn. Scale. Repeat."
+  </text>
+
+  <!-- Final prompt -->
+
+  <text x="35" y="570" class="line"
+        style="animation-delay:8.2s">
+    $
+  </text>
+
+  <rect x="55"
+        y="552"
+        width="11"
+        height="22"
+        fill="#e6edf3"
+        class="cursor"/>
+</svg>
