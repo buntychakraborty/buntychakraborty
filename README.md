@@ -110,28 +110,13 @@ flowchart LR
 
 ## 💻 `whoami`
 
-```bash
-$ whoami
-
-> Software Engineer
-> Full Stack Alchemist
-> Agentic AI Explorer
-> Microservices Architect
-> Professional Bug Hunter
-
-$ cat mission.txt
-
-Building intelligent systems.
-Breaking monoliths into microservices.
-Teaching AI agents to do the boring stuff.
-Turning caffeine into production deployments.
-
-$ echo $CURRENT_MISSION
-
-"Build. Break. Learn. Scale. Repeat."
-
-$ █
-```
+<p align="center">
+  <img
+    src="./whoami-animation.svg"
+    width="100%"
+    alt="Animated whoami terminal"
+  />
+</p>
 
 ---
 
@@ -152,21 +137,12 @@ $ █
 
 ## 🔐 Access Log
 
-```log
-[INFO]  Visitor connection established
-[INFO]  Secure handshake completed
-[ OK ]  Developer profile decrypted
-[ OK ]  AI Core initialized
-[ OK ]  Microservices cluster connected
-[WARN]  Excessive curiosity detected
-[INFO]  Coffee dependency: STABLE
-[ OK ]  System ready
-
->>> Welcome to Bunty's Cyberdeck.
-```
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=buntychakraborty&label=CYBERDECK+CONNECTIONS&color=39ff14&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="./access-log-animation.svg"
+    width="100%"
+    alt="Animated Cyberdeck Access Log"
+  />
 </p>
 
 ---
@@ -332,21 +308,57 @@ mindmap
 
 ---
 
-## 📊 WakaTime Development Metrics
+## 📊 Development Metrics
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/PRIMARY-JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_ENGINE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FRONTEND-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-BUILDING-39FF14?style=for-the-badge&labelColor=0D1117" />
+</p>
 
-<!--START_SECTION:waka-->
 ```text
-Java         8 hrs 15 mins   ████████████░░░░░░░░░░░░░   45.2%
-React        4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   24.8%
-Python       2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.1%
-SQL          1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   8.2%
-DevOps       1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   6.7%
+╭─────────────────── DEVELOPER CONTROL CENTER ───────────────────╮
+│                                                                │
+│  CORE RUNTIME                                                  │
+│                                                                │
+│  ☕ Java          ████████████████████  PRIMARY   [ ONLINE ]   │
+│  ⚛  React         █████████████████░░░  ACTIVE    [ ONLINE ]   │
+│  🐍 Python        ████████████████░░░░  AI/ML     [ ONLINE ]   │
+│  🗄  SQL           ███████████████░░░░░  DATA      [ ONLINE ]   │
+│                                                                │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│  CURRENT SYSTEM LOAD                                           │
+│                                                                │
+│  Backend Engineering      ████████████████████  100%           │
+│  Microservices            ████████████████████  100%           │
+│  Agentic AI               ██████████████████░░   90%           │
+│  Cloud & DevOps           █████████████████░░░   85%           │
+│  Machine Learning         ███████████████░░░░░   75%           │
+│                                                                │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│  ACTIVE PROCESS                                                │
+│                                                                │
+│  PID     PROCESS                STATUS                          │
+│  001     agentic-ai-core        ● RUNNING                       │
+│  002     microservice-engine    ● RUNNING                       │
+│  003     curiosity.service      ● ALWAYS ON                     │
+│  004     coffee.exe             ● CRITICAL                      │
+│                                                                │
+╰────────────────────────────────────────────────────────────────╯
 ```
-<!--END_SECTION:waka-->
 
-</div>
+<p align="center">
+  <code>● SYSTEM ONLINE</code>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <code>BUILDING</code>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <code>LEARNING</code>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <code>SCALING</code>
+</p>
 
 ---
 
