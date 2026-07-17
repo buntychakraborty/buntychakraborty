@@ -36,6 +36,140 @@
 
 ---
 
+## 📡 System Status
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_CORE-ONLINE-39FF14?style=for-the-badge&labelColor=0D1117" alt="AI Core" />
+  <img src="https://img.shields.io/badge/MICROSERVICES-ACTIVE-00FFFF?style=for-the-badge&labelColor=0D1117" alt="Microservices" />
+  <img src="https://img.shields.io/badge/BUILD-PASSING-39FF14?style=for-the-badge&labelColor=0D1117" alt="Build" />
+  <img src="https://img.shields.io/badge/COFFEE_LEVEL-87%25-FF00FF?style=for-the-badge&labelColor=0D1117" alt="Coffee Level" />
+</p>
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                    SYSTEM DIAGNOSTICS                        │
+├──────────────────────┬───────────────────────┬───────────────┤
+│ MODULE               │ LOAD                  │ STATUS        │
+├──────────────────────┼───────────────────────┼───────────────┤
+│ Agentic AI Core      │ ████████████████████  │ ONLINE        │
+│ Java Engine          │ ████████████████████  │ ACTIVE        │
+│ Python Runtime       │ ████████████████░░░░  │ ACTIVE        │
+│ Microservices        │ ███████████████████░  │ RUNNING       │
+│ Cloud Infrastructure │ ██████████████████░░  │ CONNECTED     │
+│ Curiosity Engine     │ ████████████████████  │ MAXIMUM       │
+╰──────────────────────┴───────────────────────┴───────────────╯
+```
+
+---
+
+## 🛰️ Current Mission
+
+```yaml
+current_status:
+  building:
+    - Scalable Microservices
+    - Agentic AI Systems
+    - AI-powered Applications
+
+  exploring:
+    - Multi-Agent Architectures
+    - Machine Learning
+    - Generative AI
+    - Cloud Native Systems
+
+  improving:
+    - System Design
+    - Distributed Systems
+    - DevOps & Observability
+
+  mission: "Turn complex problems into elegant, scalable solutions."
+```
+
+---
+
+## 🧠 Agentic AI Architecture
+
+```mermaid
+flowchart LR
+    U["👤 User"] --> A["🤖 AI Agent"]
+    A --> L["🧠 LLM"]
+    A --> T["🛠️ Tools"]
+    A --> M["💾 Memory"]
+    A --> V["🔎 Vector DB"]
+
+    T --> API["🌐 APIs"]
+    T --> DB["🗄️ Database"]
+    T --> S["⚙️ Microservices"]
+
+    L --> A
+    M --> A
+    V --> A
+```
+
+---
+
+## 💻 `whoami`
+
+```bash
+$ whoami
+
+> Software Engineer
+> Full Stack Alchemist
+> Agentic AI Explorer
+> Microservices Architect
+> Professional Bug Hunter
+
+$ cat mission.txt
+
+Building intelligent systems.
+Breaking monoliths into microservices.
+Teaching AI agents to do the boring stuff.
+Turning caffeine into production deployments.
+
+$ echo $CURRENT_MISSION
+
+"Build. Break. Learn. Scale. Repeat."
+
+$ █
+```
+
+---
+
+## 🚀 Runtime Environment
+
+<p align="center">
+
+![Java](https://img.shields.io/badge/Java-PRIMARY-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-RUNNING-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ACTIVE-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-RENDERING-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-CONTAINERIZED-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-ORCHESTRATING-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+</p>
+
+---
+
+## 🔐 Access Log
+
+```log
+[INFO]  Visitor connection established
+[INFO]  Secure handshake completed
+[ OK ]  Developer profile decrypted
+[ OK ]  AI Core initialized
+[ OK ]  Microservices cluster connected
+[WARN]  Excessive curiosity detected
+[INFO]  Coffee dependency: STABLE
+[ OK ]  System ready
+
+>>> Welcome to Bunty's Cyberdeck.
+```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=buntychakraborty&label=CYBERDECK+CONNECTIONS&color=39ff14&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
 
 ## 🛠️ System Modules (Tech Stack)
 
