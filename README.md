@@ -308,21 +308,57 @@ mindmap
 
 ---
 
-## 📊 WakaTime Development Metrics
+## 📊 Development Metrics
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/PRIMARY-JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_ENGINE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FRONTEND-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-BUILDING-39FF14?style=for-the-badge&labelColor=0D1117" />
+</p>
 
-<!--START_SECTION:waka-->
 ```text
-Java         8 hrs 15 mins   ████████████░░░░░░░░░░░░░   45.2%
-React        4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   24.8%
-Python       2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.1%
-SQL          1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   8.2%
-DevOps       1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   6.7%
+╭─────────────────── DEVELOPER CONTROL CENTER ───────────────────╮
+│                                                                │
+│  CORE RUNTIME                                                  │
+│                                                                │
+│  ☕ Java          ████████████████████  PRIMARY   [ ONLINE ]   │
+│  ⚛  React         █████████████████░░░  ACTIVE    [ ONLINE ]   │
+│  🐍 Python        ████████████████░░░░  AI/ML     [ ONLINE ]   │
+│  🗄  SQL           ███████████████░░░░░  DATA      [ ONLINE ]   │
+│                                                                │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│  CURRENT SYSTEM LOAD                                           │
+│                                                                │
+│  Backend Engineering      ████████████████████  100%           │
+│  Microservices            ████████████████████  100%           │
+│  Agentic AI               ██████████████████░░   90%           │
+│  Cloud & DevOps           █████████████████░░░   85%           │
+│  Machine Learning         ███████████████░░░░░   75%           │
+│                                                                │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│  ACTIVE PROCESS                                                │
+│                                                                │
+│  PID     PROCESS                STATUS                          │
+│  001     agentic-ai-core        ● RUNNING                       │
+│  002     microservice-engine    ● RUNNING                       │
+│  003     curiosity.service      ● ALWAYS ON                     │
+│  004     coffee.exe             ● CRITICAL                      │
+│                                                                │
+╰────────────────────────────────────────────────────────────────╯
 ```
-<!--END_SECTION:waka-->
 
-</div>
+<p align="center">
+  <code>● SYSTEM ONLINE</code>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <code>BUILDING</code>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <code>LEARNING</code>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <code>SCALING</code>
+</p>
 
 ---
 
