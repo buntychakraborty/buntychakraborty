@@ -5,66 +5,71 @@
 
 <!-- Typing SVG Subtitle & Quick Stats -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe!;Full+Stack+Alchemist;Building+Scalable+Microservices;AI+%26+LangChain+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=bunty%40cyberdeck%3A%7E%24+curl+-s+bunty.dev%2Fbio;loading+agentic_core.bin...;ACCESS+GRANTED+%5BSTATUS%3A+ACTIVE%5D;Initializing+AI+Neural+Link..." alt="Hacker Typing SVG" />
   
   <p align="center">
     <a href="https://linkedin.com/in/bunty-chakraborty-b5a395119/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=1F2328" alt="LinkedIn" />
     </a>
     <a href="mailto:buntychakraborty08@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=1F2328" alt="Email" />
     </a>
     <a href="https://www.hackerrank.com/bunty09_bunty09" target="_blank">
-      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+      <img src="https://img.shields.io/badge/HACKERRANK-39FF14?style=for-the-badge&logo=hackerrank&logoColor=000000&labelColor=1F2328" alt="HackerRank" />
     </a>
   </p>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=buntychakraborty&label=PROFILE+VIEWS&color=00f7ff&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=buntychakraborty&label=MAINFRAME+VISITS&color=39ff14&style=flat-square" alt="Mainframe Visits" />
   </p>
 </div>
 
 ---
 
-## ⚡ Quick Overview
+## ⚡ Mainframe Terminal
 
-<table border="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: 1px solid #39ff14; border-radius: 6px; background-color: #0d1117;">
   <tr>
-    <td width="55%" valign="top">
-      <h3>🔥 Tech Stack Arsenal</h3>
-      
-```javascript
-const buntyChakraborty = {
-  core: ["Java 8+", "Python", "JavaScript"],
-  backend: ["Spring Boot", "Micronaut", "gRPC", "REST API"],
-  frontend: ["React", "React Native", "Thymeleaf", "OJET"],
-  dataStores: ["PostgreSQL", "MySQL", "Oracle DB"],
-  messaging: ["Apache Kafka", "RabbitMQ"],
-  devOps: ["Docker", "Kubernetes", "AWS", "OCI", "Jenkins"],
-  aiMl: ["LangChain", "LangGraph", "Scikit-Learn"],
-  philosophy: "Building elegant solutions for complex challenges"
-};
-```
+    <td style="background-color: #161b22; padding: 10px; border-top-left-radius: 6px; border-top-right-radius: 6px; border-bottom: 1px solid #39ff14; display: flex; align-items: center; justify-content: space-between;">
+      <div>
+        <span style="color: #ff5f56; font-size: 14px; margin-right: 4px;">●</span>
+        <span style="color: #ffbd2e; font-size: 14px; margin-right: 4px;">●</span>
+        <span style="color: #27c93f; font-size: 14px; margin-right: 4px;">●</span>
+      </div>
+      <span style="color: #39ff14; font-family: monospace; font-size: 13px; font-weight: bold;">bunty@cyberdeck:~</span>
+      <span style="color: #8b949e; font-family: monospace; font-size: 12px;">UTF-8</span>
     </td>
-    <td width="45%" valign="top">
-      <h3>🎪 Fun Facts About Me</h3>
-      <ul>
-        <li>🕵️‍♂️ <b>Problem Solver:</b> I treat every bug as an interesting mystery waiting to be solved.</li>
-        <li>🌱 <b>Growth Mindset:</b> Currently diving deep into Machine Learning & Agentic AI workflows.</li>
-        <li>🤝 <b>Team First:</b> Passionate about mentoring, clean design patterns, and open-source.</li>
-        <li>☕ <b>Fuel:</b> Powered by caffeine, curiosity, and synthwave music.</li>
-        <li>🎯 <b>Goal:</b> Creating high-scale architectures that solve real human needs.</li>
-      </ul>
+  </tr>
+  <tr>
+    <td style="padding: 15px; font-family: 'Fira Code', 'Courier New', monospace; font-size: 14px; line-height: 1.6; color: #39ff14; background-color: #0a0e10;">
+      <span style="color: #8b949e;">$</span> cat developer_manifesto.json<br/>
+      <pre style="margin: 0; color: #39ff14; background: none; border: none; padding: 0;">{
+  "identity": "Bunty Chakraborty",
+  "alias": "Full Stack Alchemist",
+  "specialization": "Agentic AI & Scalable Microservices",
+  "core_languages": ["Java 8+", "Python", "JavaScript"],
+  "frameworks": ["Spring Boot", "Micronaut", "React", "LangChain"],
+  "infrastructure": ["Docker", "Kubernetes", "AWS", "OCI", "Kafka"],
+  "philosophy": "Solving complex engineering mysteries"
+}</pre>
+      <br/>
+      <span style="color: #8b949e;">$</span> ./run_fun_facts.sh<br/>
+      <span style="color: #a5d6ff;">[1] Every bug is a puzzle; every hotfix is an art.</span><br/>
+      <span style="color: #a5d6ff;">[2] Dive mode activated for Machine Learning & Agentic workflows.</span><br/>
+      <span style="color: #a5d6ff;">[3] Converting caffeine and synthwave beats to clean microservices.</span><br/>
+      <span style="color: #a5d6ff;">[4] Driven by deep curiosity, built for high performance.</span><br/>
+      <br/>
+      <span style="color: #8b949e;">$</span> <span style="color: #39ff14; font-weight: bold;">█</span>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Technology Ecosystem
+## 🛠️ System Modules (Tech Stack)
 
 <details open>
-<summary><b>💻 Languages & Core</b></summary>
+<summary><b>[MODULE_01] 💻 Languages & Core</b></summary>
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -76,7 +81,7 @@ const buntyChakraborty = {
 </details>
 
 <details open>
-<summary><b>🚀 Frameworks & Libraries</b></summary>
+<summary><b>[MODULE_02] 🚀 Frameworks & Libraries</b></summary>
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
@@ -91,7 +96,7 @@ const buntyChakraborty = {
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
+<summary><b>[MODULE_03] 🤖 AI/ML & Data Science</b></summary>
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/🦜_LangChain-121D33?style=for-the-badge&logoColor=white" alt="LangChain" />
@@ -106,7 +111,7 @@ const buntyChakraborty = {
 </details>
 
 <details open>
-<summary><b>🗄️ Databases, Messaging & Queues</b></summary>
+<summary><b>[MODULE_04] 🗄️ Databases, Messaging & Queues</b></summary>
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -118,7 +123,7 @@ const buntyChakraborty = {
 </details>
 
 <details open>
-<summary><b>☁️ Cloud, DevOps & Observability</b></summary>
+<summary><b>[MODULE_05] ☁️ Cloud, DevOps & Observability</b></summary>
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -136,7 +141,7 @@ const buntyChakraborty = {
 </details>
 
 <details open>
-<summary><b>🛠️ Development Tools & IDEs</b></summary>
+<summary><b>[MODULE_06] 🛠️ Tooling & Local Mainframe</b></summary>
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -190,7 +195,7 @@ const buntyChakraborty = {
 
 ---
 
-## 🎯 Current Strategy & Mindmap
+## 🎯 System Strategy Mapping
 
 <div align="center">
 
@@ -237,7 +242,7 @@ DevOps       1 hr 15 mins    ██░░░░░░░░░░░░░░░
 
 ---
 
-## 💭 Dev Wisdom
+## 💭 Decrypted System Wisdom (Quotes)
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
