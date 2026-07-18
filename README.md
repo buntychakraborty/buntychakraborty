@@ -64,26 +64,13 @@
 
 ## 🛰️ Current Mission
 
-```yaml
-current_status:
-  building:
-    - Scalable Microservices
-    - Agentic AI Systems
-    - AI-powered Applications
-
-  exploring:
-    - Multi-Agent Architectures
-    - Machine Learning
-    - Generative AI
-    - Cloud Native Systems
-
-  improving:
-    - System Design
-    - Distributed Systems
-    - DevOps & Observability
-
-  mission: "Turn complex problems into elegant, scalable solutions."
-```
+<p align="center">
+  
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems...;Exploring+Agentic+AI...;Designing+Distributed+Architectures...;Turning+Ideas+Into+Production."
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
