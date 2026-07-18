@@ -87,27 +87,6 @@ current_status:
 
 ---
 
-## 🧠 Agentic AI Architecture
-
-```mermaid
-flowchart LR
-    U["👤 User"] --> A["🤖 AI Agent"]
-    A --> L["🧠 LLM"]
-    A --> T["🛠️ Tools"]
-    A --> M["💾 Memory"]
-    A --> V["🔎 Vector DB"]
-
-    T --> API["🌐 APIs"]
-    T --> DB["🗄️ Database"]
-    T --> S["⚙️ Microservices"]
-
-    L --> A
-    M --> A
-    V --> A
-```
-
----
-
 ## 💻 `whoami`
 
 <p align="center">
