@@ -1,4 +1,4 @@
-<!-- Header Banner -->
+<!-- Header Banner area -->
 <p align="center">
   <img src="github_profile_banner.png" alt="Bunty Chakraborty Banner" width="100%" />
 </p>
